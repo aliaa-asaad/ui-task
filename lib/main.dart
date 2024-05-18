@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:testing_app/core/utils/theme.dart';
 import 'package:testing_app/features/analysis/presentation/screens/analysis_screen.dart';
+import 'package:testing_app/study.dart';
 
 void main() {
   runApp(const MyApp());
